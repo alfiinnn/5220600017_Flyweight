@@ -1,0 +1,3 @@
+﻿  GameManager.cpp
+D:\Pemrogaman 4\codingan\Flyweight\Flyweight\GameManager.cpp(46,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Flyweight.vcxproj -> D:\Pemrogaman 4\codingan\Flyweight\x64\Debug\Flyweight.exe
